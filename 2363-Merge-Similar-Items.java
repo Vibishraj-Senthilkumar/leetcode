@@ -11,10 +11,8 @@ class Solution {
         }
         List<List<Integer>> list = new ArrayList<>();
         for(int key:tm.keySet())
-        {   List<Integer> li=new ArrayList<>();
-            li.add(key);
-            li.add(tm.get(key));
-            list.add(li);
+        {  
+            list.add(List.of(key,tm.get(key)));
         }
         return list;
     }
