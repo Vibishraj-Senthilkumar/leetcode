@@ -5,18 +5,18 @@ class Solution {
     public String numberToWords(int num) {
         if(num==0)
             return \Zero\;
-        String word=\\;
+        StringBuffer word=new StringBuffer();
         int i=0;
         while(num>0)
         {
             if(num%1000!=0)
             {
-                word=count(num%1000)+hun[i]+\ \+word;
+                word.insert(0,count(num%1000)+hun[i]+\ \);
             }
             num/=1000;
             i++;
         }
-        return word.trim();
+        return word.toString().trim();
     }
     public String count(int num)
     {
