@@ -1,26 +1,18 @@
 import java.math.BigInteger;
 class Solution {
-    PriorityQueue<BigInteger> pq=new PriorityQueue<>();
-    int k;
     public String kthLargestNumber(String[] nums, int k) {
-        this.k=k;
-       for(String n:nums)
-            add(new BigInteger(n));
-    return String.valueOf(pq.peek()); 
-    }
-    public void add(BigInteger val)
-    {
-        if(pq.size()==k)
+        Arrays.sort(nums,(a,b)->
         {
-            if(pq.peek().compareTo(val)<=0)
+            int l=Integer.compare(b.length(),a.length());
+            if(l==0)
             {
-                pq.poll();
-                pq.offer(val);
+                return b.compareTo(a);
             }
-        }
-        else
-        {
-            pq.offer(val);
-        }
+            else
+            {
+                return l;
+            }
+        });
+        return nums[k-1];
     }
 }
