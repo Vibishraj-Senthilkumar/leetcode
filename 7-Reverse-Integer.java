@@ -6,9 +6,7 @@ class Solution {
             rev=rev*10+(x%10);
             x/=10;
         }
-        int min= -2147483648;
-        int max= 2147483647;
-        if(rev<min ||rev>max)
+        if(rev<Integer.MIN_VALUE ||rev>Integer.MAX_VALUE)
             return 0;
         return (int)rev;
     }
