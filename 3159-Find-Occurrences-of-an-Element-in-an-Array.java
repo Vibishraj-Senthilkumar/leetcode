@@ -1,23 +1,19 @@
 class Solution {
     public int[] occurrencesOfElement(int[] nums, int[] queries, int x) {
-        List<Integer> li=new ArrayList<>();
+        int k=0;
         for(int i=0;i<nums.length;i++)
         {
             if(x==nums[i])
             {
-                li.add(i);
+                nums[k++]=i;
             }
         }
         for(int i=0;i<queries.length;i++)
         {
-            try
-            {
-                queries[i]=li.get(queries[i]-1);
-            }
-            catch(Exception e)
-            {
-                queries[i]=-1;
-            }
+            if(queries[i]<=k)
+            queries[i]=nums[queries[i]-1];
+            else
+            queries[i]=-1;
         }
         return queries;
     }
