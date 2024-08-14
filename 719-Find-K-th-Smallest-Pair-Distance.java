@@ -1,21 +1,28 @@
-class Solution {
+
+public class Solution {
     public int smallestDistancePair(int[] nums, int k) {
-        if(k==25000000&&nums[0]==2)
-            return 3;
-        if(k==25000000&&nums[0]==1)
-            return 1;
-        if(k==25000000&&nums[0]==197180)
-            return 292051;
-        List<Integer>li=new ArrayList<>();
-        for(int i=0;i<nums.length;i++)
-        {
-            for(int j=i+1;j<nums.length;j++)
-            {
-                li.add(Math.abs(nums[i]-nums[j]));
-            }
+        Arrays.sort(nums);
+        
+        int left = 0;
+        int right = nums[nums.length - 1] - nums[0];
+        
+        while (left < right) {
+            int mid = (left + right) / 2;
+            
+            if (issmallpairs(nums, k, mid))
+                right = mid;
+            else
+                left = mid + 1;
         }
-        li.sort((a,b)->a-b);
-        return li.get(k-1);
-        // return 0;
+        return left;
+    }
+    
+    private boolean issmallpairs(int[] nums, int k, int mid) {
+        int count = 0, left = 0;
+        for (int right = 1; right < nums.length; right++) {
+            while (nums[right] - nums[left] > mid) left++;
+            count += right - left;
+        }
+        return (count >= k);
     }
 }
