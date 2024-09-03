@@ -8,6 +8,8 @@ class Solution {
         for(int i=1;i<k;i++)
         {
             sum=sumdigit(sum);
+            if(sum<10)
+                return sum;
         }
         return sum;
     }
