@@ -4,13 +4,17 @@ class Solution {
         backtrack(nums,0,new ArrayList<>(),result);
         return result;
     }
-    public void backtrack(int[] nums,int start,List<Integer>li,List<List<Integer>> result)
+    public void backtrack(int[] nums,int ind,List<Integer>li,List<List<Integer>> result)
     {
-        result.add(new ArrayList<>(li));
-        for(int i=start;i<nums.length;i++){
-            li.add(nums[i]);
-            backtrack(nums,i+1,li,result);
-            li.remove(li.size()-1);
+        if(ind==nums.length)
+        {
+            result.add(new ArrayList<>(li));
+            return;
         }
+            li.add(nums[ind]);
+            backtrack(nums,ind+1,li,result);
+            li.remove(li.size()-1);
+            backtrack(nums,ind+1,li,result);
+        
     }
 }
