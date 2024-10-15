@@ -1,23 +1,28 @@
 class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        List < List < Integer >> ans = new ArrayList < > ();
+        Set<List<Integer>> ans=new HashSet<>();
+        List<Integer> li=new ArrayList<>();
         Arrays.sort(candidates);
-        findCombinations(0, candidates, target, ans, new ArrayList < > ());
-        return ans;
+        sum(candidates,target,0,candidates.length,li,ans,0);
+        List<List<Integer>> res=new ArrayList<>(ans);
+        return res;
     }
-    static void findCombinations(int ind, int[] arr, int target, List < List < Integer >> ans, List < Integer > ds) {
-        if (target == 0) {
-            ans.add(new ArrayList < > (ds));
+        public void sum(int[] nums,int sum,int ind,int n,List<Integer> li, Set<List<Integer>> ans,int temp)
+    {
+        if(temp>=sum||ind>=n)
+        {
+            if(temp==sum)
+            {
+                ans.add(new ArrayList<>(li));
+            }
             return;
         }
-
-        for (int i = ind; i < arr.length; i++) {
-            if (i > ind && arr[i] == arr[i - 1]) continue;
-            if (arr[i] > target) break;
-
-            ds.add(arr[i]);
-            findCombinations(i + 1, arr, target - arr[i], ans, ds);
-            ds.remove(ds.size() - 1);
+        li.add(nums[ind]);
+        sum(nums,sum,ind+1,n,li,ans,temp+nums[ind]);
+        li.remove(li.size()-1);
+        while (ind + 1 < n && nums[ind] == nums[ind + 1]) {
+            ind++;
         }
+        sum(nums,sum,ind+1,n,li,ans,temp);
     }
 }
