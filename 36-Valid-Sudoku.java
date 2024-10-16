@@ -12,7 +12,6 @@ class Solution {
                         return false;
                 }
             }
-            // System.out.println(set);
             set=new HashSet<>();
             for(int j=0;j<9;j++)
             {
@@ -22,7 +21,6 @@ class Solution {
                         return false;
                 }
             }
-
         }
         for(int i=0;i<9;i+=3)
         {
