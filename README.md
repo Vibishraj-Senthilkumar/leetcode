@@ -20,11 +20,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
