@@ -53,4 +53,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0724-find-pivot-index) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
