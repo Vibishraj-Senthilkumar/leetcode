@@ -33,6 +33,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0050-powx-n) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,4 +68,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0503-next-greater-element-ii) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
