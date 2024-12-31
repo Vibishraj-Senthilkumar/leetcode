@@ -49,6 +49,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0204-count-primes) |
 | [0503-next-greater-element-ii](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
@@ -72,4 +73,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
