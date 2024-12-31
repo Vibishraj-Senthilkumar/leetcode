@@ -27,6 +27,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0141-linked-list-cycle) |
 ## Recursion
@@ -49,6 +50,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0204-count-primes](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0204-count-primes) |
 | [0503-next-greater-element-ii](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0724-find-pivot-index) |
@@ -59,6 +61,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Design
@@ -68,6 +71,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Math
 |  |
@@ -82,4 +86,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
