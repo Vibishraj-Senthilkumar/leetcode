@@ -57,6 +57,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0503-next-greater-element-ii](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0724-find-pivot-index) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0155-min-stack](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0042-trapping-rain-water](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Math
 |  |
 | ------- |
