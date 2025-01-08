@@ -24,11 +24,11 @@ class Solution {
             else pse[i]=st.peek();
             st.push(i);
         }
-        long rectangle=-1;
+        int rectangle=-1;
         for(int i=0;i<n;i++)
         {
             rectangle=Math.max(rectangle,(heights[i]*(nse[i]-pse[i]-1)));
         }
-        return (int)rectangle;
+        return rectangle;
     }
 }
