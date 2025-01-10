@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0141-linked-list-cycle) |
+| [0952-word-subsets](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0952-word-subsets) |
 ## Linked List
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0503-next-greater-element-ii](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0724-find-pivot-index) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0952-word-subsets](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0952-word-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Prefix Sum
 |  |
@@ -108,6 +110,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0952-word-subsets) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Greedy
 |  |
