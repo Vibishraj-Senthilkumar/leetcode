@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0141-linked-list-cycle](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0205-isomorphic-strings) |
 | [0952-word-subsets](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0952-word-subsets) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
 |  |
@@ -66,6 +67,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0943-sum-of-subarray-minimums](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0952-word-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -138,4 +140,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
