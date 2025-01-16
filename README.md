@@ -62,6 +62,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0084-largest-rectangle-in-histogram](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0204-count-primes](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0260-single-number-iii) |
 | [0503-next-greater-element-ii](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0724-find-pivot-index) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -144,6 +145,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0260-single-number-iii) |
 | [2509-minimize-xor](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
