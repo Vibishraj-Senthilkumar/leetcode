@@ -59,6 +59,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0047-permutations-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0204-count-primes](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -148,4 +149,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0260-single-number-iii](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0260-single-number-iii) |
 | [2509-minimize-xor](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Vibishraj-Senthilkumar/leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
